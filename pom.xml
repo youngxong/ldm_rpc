@@ -12,7 +12,7 @@
     <properties>
         <!--<netty.version>5.0.0.Alpha1</netty.version>-->
         <javassist.version>3.25.0-GA</javassist.version>
-        <zookeeper.version>3.4.6</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <spring_version>3.1.1.RELEASE</spring_version>
         <app1.version>0.0.1-SNAPSHOT</app1.version>
     </properties>
